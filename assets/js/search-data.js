@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "news-talk-at-xv-itmo-young-scientists-congress-st-petersburg",
+  },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
+        },{id: "news-talk-at-xv-itmo-young-scientists-congress-st-petersburg",
           title: 'Talk at XV ITMO Young Scientists Congress, St. Petersburg.',
           description: "",
           section: "News",},{id: "news-paper-presented-at-aistats-2026-workshop-on-trustworthy-predictions-tangier-morocco",

@@ -2,8 +2,16 @@
   url: https://aapt.scitation.org/journal/ajp
   color: "#00369f"
 
+"AISTATS":
+  url: https://aistats.org/
+  color: "#0f766e"
+
 "PhysRev":
   url: https://journals.aps.org/
+
+"UAI":
+  url: https://www.auai.org/uai2026/
+  color: "#1d4ed8"
 
 "Vision":
   color: "#009f36"

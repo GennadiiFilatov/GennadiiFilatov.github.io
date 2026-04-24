@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "Selected publications and preprints.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-cv",
+  },{id: "nav-cv",
           title: "CV",
           description: "Education and selected awards.",
           section: "Navigation",
@@ -386,12 +379,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-talk-at-xv-itmo-young-scientists-congress-st-petersburg",
+      },{id: "news-talk-at-xv-itmo-young-scientists-congress-st-petersburg",
           title: 'Talk at XV ITMO Young Scientists Congress, St. Petersburg.',
           description: "",
           section: "News",},{id: "news-paper-presented-at-aistats-2026-workshop-on-trustworthy-predictions-tangier-morocco",

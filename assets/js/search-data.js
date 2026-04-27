@@ -110,6 +110,6 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=", "_blank");
+          window.open("https://scholar.google.com/citations?user=iqXEYGkAAAAJ", "_blank");
         },
       },];

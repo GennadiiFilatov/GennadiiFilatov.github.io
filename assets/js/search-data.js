@@ -16,11 +16,20 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-talk-at-xv-itmo-young-scientists-congress-st-petersburg",
+        },{id: "news-paper-when-synthetic-data-is-enough-calibration-for-tabular-model-ranking-accepted-at-the-aistats-2026-workshop-on-towards-trustworthy-predictions",
+          title: 'Paper “When Synthetic Data Is Enough: Calibration for Tabular Model Ranking” accepted at...',
+          description: "",
+          section: "News",},{id: "news-talk-at-xv-itmo-young-scientists-congress-st-petersburg",
           title: 'Talk at XV ITMO Young Scientists Congress, St. Petersburg.',
           description: "",
           section: "News",},{id: "news-paper-when-synthetic-data-is-enough-calibration-for-tabular-model-ranking-presented-at-aistats-2026-workshop-on-trustworthy-predictions-tangier-morocco",
           title: 'Paper “When Synthetic Data Is Enough: Calibration for Tabular Model Ranking” presented at...',
+          description: "",
+          section: "News",},{id: "news-selected-for-the-smiles-2026-international-summer-school-on-machine-learning-contributed-to-a-project-on-categorical-flow-maps-for-few-step-text-generation",
+          title: 'Selected for the SMILES-2026 International Summer School on Machine Learning; contributed to a...',
+          description: "",
+          section: "News",},{id: "news-presented-a-poster-on-synthetic-tabular-data-calibration-at-the-xv-congress-of-young-scientists-itmo-university",
+          title: 'Presented a poster on synthetic tabular data calibration at the XV Congress of...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -67,6 +76,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-block-categorical-flow-maps",
+          title: 'Block Categorical Flow Maps',
+          description: "Few-step semi-autoregressive text generation combining block-autoregressive modelling, categorical flow maps, and KV caching.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/block-categorical-flow-maps/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",

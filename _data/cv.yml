@@ -5,8 +5,8 @@ basics:
   email: filatovgwork@gmail.com
   url: https://gennadiifilatov.github.io
   summary: >
-    First-year M.Sc. student at ITMO University working on synthetic tabular data,
-    generative models, and probabilistic inference.
+    Second-year M.Sc. student at ITMO University working on trustworthy generative
+    modeling, synthetic tabular data calibration, and probabilistic inference.
   location:
     city: Saint Petersburg
     countryCode: RU
@@ -17,15 +17,35 @@ education:
     studyType: M.Sc.
     startDate: "2024-09"
     endDate: ""
+    highlights:
+      - Erasmus+ exchange at Alexandru Ioan Cuza University of Iasi, Romania (2026-2027)
   - institution: Peter the Great St. Petersburg Polytechnic University
     area: Physics (Nuclear and Particle Physics)
     studyType: B.Sc.
     startDate: "2020-09"
     endDate: "2024-06"
 
-work: []
+work:
+  - name: AIST Laboratory, ITMO University
+    position: Researcher
+    startDate: "2025-10"
+    endDate: ""
+    highlights:
+      - Paper accepted at the AISTATS 2026 workshop on Towards Trustworthy Predictions; synthetic-data calibration preserved 60-79% of model rankings.
+  - name: SMILES-2026 International Summer School on Machine Learning
+    position: Team Project Contributor
+    startDate: "2026-07"
+    endDate: "2026-07"
+    highlights:
+      - Block Categorical Flow Maps project; reduced generation perplexity from 166 to 49 at 16 sampling steps.
 publications: []
-skills: []
+skills:
+  - name: Programming
+    keywords: [Python, Bash, LaTeX, C++, MATLAB]
+  - name: Machine Learning
+    keywords: [PyTorch, scikit-learn, TensorFlow/Keras, NumPy, SciPy, pandas]
+  - name: Tools
+    keywords: [Git, Docker, Jupyter, VS Code]
 languages:
   - language: Russian
     fluency: Native

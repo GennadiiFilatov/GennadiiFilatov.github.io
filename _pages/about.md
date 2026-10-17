@@ -16,9 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true
 ---
 
-I am a second-year M.Sc. student in Big Data and Machine Learning at [ITMO University](https://itmo.ru/en/), supervised by [Irina Deeva](https://openreview.net/profile?id=~Irina_Deeva1) and [Alexey Zaytsev](https://www.bimsa.net/people/zaytsev/) for my master's thesis. Irina has since moved to HSE University, where I continue this research under her supervision. I am looking for a PhD position starting in 2027, focused on trustworthy and probabilistic machine learning.
+I am a second-year M.Sc. student in Big Data and Machine Learning at [ITMO University](https://itmo.ru/en/), supervised by [Irina Deeva](https://openreview.net/profile?id=~Irina_Deeva1) and [Alexey Zaytsev](https://www.bimsa.net/people/zaytsev/) for my master's thesis. Irina has since moved to HSE University, where I continue this research under her supervision. I am looking for a **PhD position starting in 2027**, focused on trustworthy and probabilistic machine learning.
 
-My research focuses on **synthetic tabular data**: how to calibrate generative models so that synthetic data reliably preserves model rankings, enabling trustworthy evaluation of machine learning systems. I am also interested in generative modeling more broadly, including diffusion models and flow matching for structured and sequential data. More broadly, I am interested in **generative models** and **probabilistic inference**.
+My research focuses on **synthetic tabular data**: how to calibrate generative models so that synthetic data reliably preserves model rankings, enabling trustworthy evaluation of machine learning systems. I am also interested in **generative models**, including diffusion models and flow matching for structured and sequential data, and in **probabilistic inference**.
 
 In summer 2026, I was selected for the SMILES International Summer School on Machine Learning, where I contributed to a project on few-step text generation using categorical flow maps.
 
@@ -29,7 +29,6 @@ Previously, I completed a B.Sc. in Physics (Nuclear and Particle Physics) at Pet
 - **Erasmus+ Mobility Grant** (2026-2027) — competitive EU-funded academic exchange at Alexandru Ioan Cuza University of Iasi, Romania, awarded through a selective institutional process.
 - **Enhanced State Academic Scholarship** (2022–2025) — top 5% of SPbPU students
 - **Student of the Year** (2024) — Peter the Great St. Petersburg Polytechnic University
-- **IAPS Worldwide Grant** (2024) — for participation in ICPS 2024
 
 ## Research Interests
 
